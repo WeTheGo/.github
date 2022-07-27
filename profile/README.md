@@ -10,9 +10,12 @@
 -->
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=WeTheGo%20Github&fontSize=90&animation=twinkling )
 <div>
-<img src="https://img.shields.io/badge/notion-#000000?style=for-the-badge&logo=notion&logoColor=white">
+<h5>Notion 바로가기</h5>
+<a href="https://reliable-bunny-1f8.notion.site/80b1b15e82e446b0b796865e4244ebab">
+  <img src="https://img.shields.io/badge/notion-black?style=flat-square&logo=notion&logoColor=white"/>
+  </a>
 </div>
-https://reliable-bunny-1f8.notion.site/80b1b15e82e446b0b796865e4244ebab
+
 
 
 <div align=left><h2>📚 STACKS</h2></div>
@@ -31,5 +34,5 @@ https://reliable-bunny-1f8.notion.site/80b1b15e82e446b0b796865e4244ebab
   <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/notion-#000000?style=for-the-badge&logo=notion&logoColor=white">
+  
   </div>
